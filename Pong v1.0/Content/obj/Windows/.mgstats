@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/ball.png","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/ball.xnb","TextureProcessor","Texture2DContent",350,3685,0,2403436
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Change.wav","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/Change.xnb","SoundEffectProcessor","SoundEffectContent",10188,10249,0,6768375
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Exit.wav","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/Exit.xnb","SoundEffectProcessor","SoundEffectContent",149978,150039,0,452228
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/GameFont.spritefont","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70690,0,610951
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/GameOver.wav","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/GameOver.xnb","SoundEffectProcessor","SoundEffectContent",157148,157209,0,4796419
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/line.png","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/line.xnb","TextureProcessor","Texture2DContent",149,36085,0,0108223
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/logo.jpg","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/logo.xnb","TextureProcessor","Texture2DContent",11894,921685,0,0787632
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Lose.wav","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/Lose.xnb","SoundEffectProcessor","SoundEffectContent",33164,33225,0,8449314
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/player.png","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/player.xnb","TextureProcessor","Texture2DContent",212,9685,0,0116985
+"C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Select.wav","C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/bin/Windows/Select.xnb","SoundEffectProcessor","SoundEffectContent",14510,14571,0,4793528

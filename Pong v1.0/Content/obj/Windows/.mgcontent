@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/ball.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Change.wav</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Exit.wav</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/GameFont.spritefont</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/GameOver.wav</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/line.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/logo.jpg</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Lose.wav</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/player.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Pong v1.0/Pong v1.0/Content/Select.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
